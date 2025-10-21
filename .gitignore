@@ -416,3 +416,19 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
+# Excel temporary files
+~$*.xlsx
+~$*.xlsm
+
+# PowerPoint temporary files
+~$*.pptx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+
