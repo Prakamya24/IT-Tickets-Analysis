@@ -18,10 +18,10 @@ This project analyzes IT Helpdesk ticket data to uncover patterns in ticket reso
 | **Project_Task_Details.docx** | Obejective and Subjective questions |
 
 ## 📈 Dashboard Preview (Add Screenshot Here)
-🖼️  ![Dashboard(Overview)](<Screenshot 2025-10-21 214819.png>)
-🖼️  ![Dashboard(Top Agent)](<Dashboard(Top Agent).png>)
-🖼️  ![Dashboard (Analysis)](<Dashboard (Analysis).png>)
-🖼️  ![Dashboard(Trends)](Dashboard(Trends).png)
+🖼️  ![Dashboard(Overview)](<Dashboard/Dashboard(Overview).png>)
+🖼️  ![Dashboard(Top Agent)](<Dashboard/Dashboard(Top Agent).png>)
+🖼️  ![Dashboard (Analysis)](<Dashboard/Dashboard (Analysis).png>)
+🖼️  ![Dashboard(Trends)](Dashboard/Dashboard(Trends).png)
 
 
 ## 🚀 Key Insights
