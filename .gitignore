@@ -432,3 +432,13 @@ Thumbs.db
 # Backup files
 *.bak
 
+# Project-specific ignores
+*.log
+*.tmp
+*.csv
+*.ods
+*.docx
+*.pptx
+*.xlsx
+!README.md
+!LICENSE
