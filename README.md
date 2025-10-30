@@ -15,7 +15,7 @@ This project analyzes IT Helpdesk ticket data to uncover patterns in ticket reso
 |------------|-------------|
 | **IT_Support_Analysis.xlsx** | Dataset, pivot tables, and dashboards |
 | **IT_Support_Insights.pptx** | Final presentation summarizing findings |
-| **Project_Task_Details.docx** | Obejective and Subjective questions |
+| **Project_Task.docx** | Obejective and Subjective questions |
 
 ## 📈 Dashboard Preview 
 🖼️  ![Dashboard](<Dashboard/Dashboard.png>)
